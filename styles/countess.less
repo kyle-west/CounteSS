@@ -1,0 +1,41 @@
+// The ui-variables file is provided by base themes provided by Atom.
+//
+// See https://github.com/atom/atom-dark-ui/blob/master/styles/ui-variables.less
+// for a full listing of what's available.
+@import "ui-variables";
+
+.countess p {
+  font-family: Monaco, monospace;
+  font-size: 8pt;
+  margin: 2px;
+}
+
+.countess {
+  overflow-y: scroll;
+  height: 400px;
+}
+
+.highlight.cust {
+  background-color: red;
+  color: darkblue;
+}
+
+.unused-css {
+
+}
+
+.unused-css::after {
+  content: "UNUSED SELECTOR";
+  color: white;
+  text-align: right;
+  background-color: orange;
+  border-radius: 3px;
+  margin-left: 10px;
+  padding: 3px;
+}
+
+
+.overwritten-css {
+  text-decoration: line-through;
+  opacity: .3;
+}

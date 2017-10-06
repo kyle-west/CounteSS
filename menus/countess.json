@@ -1,0 +1,26 @@
+{
+  "context-menu": {
+    "atom-text-editor": [
+      {
+        "label": "Toggle countess",
+        "command": "countess:toggle"
+      }
+    ]
+  },
+  "menu": [
+    {
+      "label": "Packages",
+      "submenu": [
+        {
+          "label": "countess",
+          "submenu": [
+            {
+              "label": "Toggle",
+              "command": "countess:toggle"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
