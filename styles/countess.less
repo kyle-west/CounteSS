@@ -39,3 +39,19 @@
   text-decoration: line-through;
   opacity: .3;
 }
+
+.syntax-error::after {
+  content: "!";
+  color: white;
+  text-align: right;
+  background-color: red;
+  border-radius: 3px;
+  margin-left: 10px;
+  padding: 3px;
+}
+
+.syntax-error.cursor-line::after,
+.unused-css.cursor-line::after {
+  opacity: .3;
+  background-color: grey;
+}
