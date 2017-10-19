@@ -12,9 +12,6 @@
     "css validator",
     "validator"
   ],
-  "activationCommands": {
-    "atom-workspace": "countess:toggle"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/kyle-west/countess.git"
