@@ -7,4 +7,4 @@ This package analyzes the use of CSS selectors and properties in a given HTML fi
 
 ### How to Activate CounteSS
 
-The CounteSS engine is turned off by default when you load Atom. If you wish to turn it on, simply stroke `ctrl-alt-o` to run the engine. This stroke will toggle the engine on or off.
+The CounteSS engine is automatically activated by default when you load Atom. If you wish to temporarily disable/enable it, simply stroke `ctrl-alt-o`. This stroke will toggle the engine on or off.
