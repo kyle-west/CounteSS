@@ -1,13 +1,13 @@
 ## 0.3.0 - Autostart
 * Made CounteSS start when Atom Loads
-* Made CounteSS update and analize the current active buffer when switching tabs
-* Incorperated ESLint rules into the project to help with collaborative coding
+* Made CounteSS update and analyze the current active buffer when switching tabs
+* Incorporated ESLint rules into the project to help with collaborative coding
 * Updated comments and formatted code to fit ESLint style rules
 
 ## 0.2.1 - Robust Error Handling
-* Made it so that CounteSS would not crash when a parsing error occured
-* Mark areas of the buffer where errors are occuring
-* Minor parsing refacting in the buffer marker
+* Made it so that CounteSS would not crash when a parsing error occurred
+* Mark areas of the buffer where errors are occurring
+* Minor parsing refactoring in the buffer marker
 
 ## 0.2.0 - Updated Documentation
 * Updated Documentation
