@@ -1,3 +1,7 @@
+## 0.3.1 - Fix Typo / Updated Docs
+* Fixed a minor spelling error with `editorChange` dispose object
+* Published updated documentation
+
 ## 0.3.0 - Autostart
 * Made CounteSS start when Atom Loads
 * Made CounteSS update and analyze the current active buffer when switching tabs
