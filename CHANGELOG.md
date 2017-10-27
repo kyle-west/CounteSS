@@ -1,4 +1,4 @@
-## 0.3.1 - Fix Typo / Updated Docs
+## 0.4.0 - Fix Typo / Updated Docs
 * Fixed a minor spelling error with `editorChange` dispose object
 * Published updated documentation
 
