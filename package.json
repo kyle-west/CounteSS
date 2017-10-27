@@ -1,7 +1,7 @@
 {
   "name": "countess",
   "author": "Kyle West",
-  "version": "0.3.0",
+  "version": "0.4.0",
   "main": "./lib/countess",
   "description": "CounteSS quantifies the uses of CSS selectors within a Polymer element scope.",
   "keywords": [
